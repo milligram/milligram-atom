@@ -1,0 +1,8 @@
+".source.html":
+	"HTML - Description List":
+		"prefix": "dl"
+		"body": """<dl>
+	<dt>$1</dt>
+	<dd>$2</dd>
+	<dd>$3</dd>
+</dl>$4]]>"""

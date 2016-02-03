@@ -1,0 +1,8 @@
+".source.html":
+	"HTML - Ordered List":
+		"prefix": "ol"
+		"body": """<ol>
+	<li>$1</li>
+	<li>$2</li>
+	<li>$3</li>
+</ol>$4]]>"""

@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Float Right":
+		"prefix": "float:right"
+		"body": """<div class="float-right">$1</div>$2]]>"""

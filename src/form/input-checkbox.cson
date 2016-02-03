@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Checkbox":
+		"prefix": "input:checkbox"
+		"body": """<input type="checkbox">$1]]>"""

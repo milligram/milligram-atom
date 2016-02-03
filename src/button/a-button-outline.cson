@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Anchor Button Outline":
+		"prefix": "a:button:outline"
+		"body": """<a class="button button-outline" href="$1">$2</a>$3]]>"""

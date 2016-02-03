@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Anchor Button Clear":
+		"prefix": "a:button:clear"
+		"body": """<a class="button button-clear" href="$1">$2</a>$3]]>"""

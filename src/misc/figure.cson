@@ -1,0 +1,7 @@
+".source.html":
+	"HTML - Figure":
+		"prefix": "figure"
+		"body": """<figure>
+	<img src="$1" alt="$2">
+	<figcaption>$2</figcaption>
+</figure>$3]]>"""

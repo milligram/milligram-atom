@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Emphasis":
+		"prefix": "em"
+		"body": """<em>$1</em>$2]]>"""

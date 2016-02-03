@@ -1,0 +1,6 @@
+".source.html":
+	"HTML - Container":
+		"prefix": "container"
+		"body": """<div class="container">
+	$1
+</div>$2]]>"""

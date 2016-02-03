@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Column":
+		"prefix": "column"
+		"body": """<div class="column">$1</div>$2]]>"""

@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Comment":
+		"prefix": "comment"
+		"body": """<!-- $1 -->$2]]>"""

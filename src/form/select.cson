@@ -1,0 +1,8 @@
+".source.html":
+	"HTML - Select":
+		"prefix": "select"
+		"body": """<select>
+	<option>$1</option>
+	<option>$2</option>
+	<option>$3</option>
+</select>$4]]>"""

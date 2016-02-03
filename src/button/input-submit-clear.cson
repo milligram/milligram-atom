@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Submit Clear":
+		"prefix": "input:submit:clear"
+		"body": """<input class="button-clear" type="submit" value="$1">$2]]>"""

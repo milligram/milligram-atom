@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Link":
+		"prefix": "link"
+		"body": """<link rel=stylesheet href="$1">$2]]>"""

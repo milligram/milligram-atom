@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Button Outline":
+		"prefix": "button:outline"
+		"body": """<button class="button-outline">$1</button>$2]]>"""

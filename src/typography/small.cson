@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Small":
+		"prefix": "small"
+		"body": """<small>$1</small>$2]]>"""

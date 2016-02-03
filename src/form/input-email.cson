@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Email":
+		"prefix": "input:email"
+		"body": """<input type="email">$1]]>"""

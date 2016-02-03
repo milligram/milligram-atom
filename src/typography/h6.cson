@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Heading 6":
+		"prefix": "h6"
+		"body": """<h6>$1</h6>$2]]>"""

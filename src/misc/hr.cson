@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Thematic Break":
+		"prefix": "hr"
+		"body": """<hr>$1]]>"""

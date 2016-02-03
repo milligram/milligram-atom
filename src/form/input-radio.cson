@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Radio":
+		"prefix": "input:radio"
+		"body": """<input type="radio">$1]]>"""

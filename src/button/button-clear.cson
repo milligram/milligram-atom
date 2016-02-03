@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Button Clear":
+		"prefix": "button:clear"
+		"body": """<button class="button-clear">$1</button>$2]]>"""

@@ -1,0 +1,6 @@
+".source.html":
+	"HTML - Table Header Cells":
+		"prefix": "th"
+		"body": """<tr>
+	$1
+</th>$2]]>"""

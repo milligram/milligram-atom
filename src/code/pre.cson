@@ -1,0 +1,5 @@
+".source.html":
+	"HTML - Preformatted":
+		"prefix": "pre"
+		"body": """<pre><code>$1
+</code></pre>$2]]>"""

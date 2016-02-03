@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Strong":
+		"prefix": "strong"
+		"body": """<strong>$1</strong>$2]]>"""

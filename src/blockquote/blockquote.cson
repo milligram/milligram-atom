@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Blockquote":
+		"prefix": "blockquote"
+		"body": """<blockquote>$1</blockquote>$2]]>"""

@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Image":
+		"prefix": "img"
+		"body": """<img src="$1" alt="$2">$3]]>"""

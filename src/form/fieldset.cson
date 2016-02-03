@@ -1,0 +1,6 @@
+".source.html":
+	"HTML - Fieldset":
+		"prefix": "fieldset"
+		"body": """<fieldset>
+	$1
+</fieldset>$2]]>"""

@@ -1,0 +1,8 @@
+".source.html":
+	"HTML - Unordered List":
+		"prefix": "ul"
+		"body": """<ul>
+	<li>$1</li>
+	<li>$2</li>
+	<li>$3</li>
+</ul>$4]]>"""

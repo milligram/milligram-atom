@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Text":
+		"prefix": "input:text"
+		"body": """<input type="text">$1]]>"""

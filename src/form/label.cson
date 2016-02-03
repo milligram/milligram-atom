@@ -1,0 +1,8 @@
+".source.html":
+	"HTML - Label":
+		"prefix": "label"
+		"body": """<label>$1</label>$2]]>"""
+	<description>HTML - Label</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>label</tabTrigger>
+</snippet>

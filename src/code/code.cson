@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Code":
+		"prefix": "code"
+		"body": """<code>$1</code>$2]]>"""

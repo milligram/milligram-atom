@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Description Term":
+		"prefix": "dt"
+		"body": """<dt>$1</dt>$2]]>"""

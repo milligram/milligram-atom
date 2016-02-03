@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - List Item":
+		"prefix": "li"
+		"body": """<li>$1</li>$2]]>"""

@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Submit Outline":
+		"prefix": "input:submit:outline"
+		"body": """<input class="button-outline" type="submit" value="$1">$2]]>"""

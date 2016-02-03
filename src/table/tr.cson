@@ -1,0 +1,6 @@
+".source.html":
+	"HTML - Table Row":
+		"prefix": "tr"
+		"body": """<tr>
+	$1
+</tr>$2]]>"""

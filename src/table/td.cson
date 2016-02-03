@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Table Standard Cells":
+		"prefix": "td"
+		"body": """<td>$1</td>$2]]>"""

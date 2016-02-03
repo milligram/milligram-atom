@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Tel":
+		"prefix": "input:tel"
+		"body": """input type="tel">$1]]>"""

@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Textarea":
+		"prefix": "textarea"
+		"body": """<textarea></textarea>$1]]>"""

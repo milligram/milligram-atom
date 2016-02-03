@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Input Submit":
+		"prefix": "input:submit"
+		"body": """<input type="submit" value="$1">$2]]>"""

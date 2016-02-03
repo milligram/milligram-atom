@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Clearfix":
+		"prefix": "clearfix"
+		"body": """<div class="clearfix">$1</div>$2]]>"""

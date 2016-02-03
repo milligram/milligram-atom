@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Script":
+		"prefix": "script"
+		"body": """<script src="$1"></script>$2]]>"""

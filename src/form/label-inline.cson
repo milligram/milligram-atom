@@ -1,0 +1,4 @@
+".source.html":
+	"HTML - Label Inline":
+		"prefix": "label:inline"
+		"body": """<label class="label-inline">$1</label>$2]]>"""
