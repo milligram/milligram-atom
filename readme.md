@@ -1,6 +1,6 @@
 <a align="center" href="http://milligram.github.io"><img width="100%" src="https://milligram.github.io/images/thumbnail.jpg" alt="Milligram - A minimalist CSS framework"></a>
 
-> Milligram Snippets for Atom.
+> A minimalist CSS framework.
 
 [![Travis Status](https://travis-ci.org/milligram/milligram.svg?branch=master)](https://travis-ci.org/milligram/milligram?branch=master)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/wabkk000uh6d97xk?svg=true)](https://ci.appveyor.com/project/cjpatoilo/milligram)
