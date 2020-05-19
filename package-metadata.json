@@ -1,9 +1,9 @@
 {
-	"name": "milligram-snippets-atom",
-	"description": "Milligram Snippets for Atom",
+	"name": "milligram-atom",
+	"description": "A minimalist CSS framework for Atom.",
 	"dependencies": [],
 	"sublime_text": "*",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"platforms": ["*"],
-	"url": "https://github.com/milligram/snippets-atom/"
+	"url": "https://github.com/milligram/milligram-atom/"
 }
